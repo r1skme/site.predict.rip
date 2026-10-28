@@ -192,6 +192,33 @@
     backToTop: "НАВЕРХ ↑"
   });
 
+  // Compact product and forum navigation labels.
+  Object.assign(RU, {
+    v2HeroTitle: "Точность решает<br><em>всё.</em>",
+    v2HeroBody: "Predict объединяет Ragebot, Anti-Aim, движение, визуалы и утилиты в единую систему гибких настроек. Контроль каждой детали и постоянные обновления.",
+    v2ActiveDevelopment: "В РАЗРАБОТКЕ",
+    v2PanelSubtitle: "Точность, тайминги и проверка каждого этапа.",
+    v2UpdateLabel: "СЛЕДУЮЩИЙ РЕЛИЗ",
+    v2Changes: "ИЗМЕНЕНИЙ",
+    v2ViewNotes: "Список изменений →",
+    v2ForumHeading: "На форуме",
+    v2AllTopics: "Все темы →",
+    v2DevNotes: "ЖУРНАЛ РАЗРАБОТКИ",
+    v2NextRelease: "Что войдёт в обновление?",
+    v2ReadDetails: "Читать полный changelog",
+    v2SystemsHeading: "Возможности Predict",
+    v2ExploreModules: "Все функции →",
+    v2CtaTitle: "Следи за развитием проекта.",
+    v2CtaBody: "Изменения, технические материалы и новости продукта всегда доступны в хабе.",
+    v2CommunityTitle: "Форум сообщества",
+    v2CommunityDesc: "Новости продукта, технические темы, обновления и помощь.",
+    v2Resources: "РАЗДЕЛЫ",
+    v2Latest: "Последние",
+    v2ForumTopics: "Темы",
+    v2AuthorKey: "АВТОР",
+    v2ForumFoot: "Сообщество Predict · Официальные темы продукта"
+  });
+
   const TOPICS = {
     welcome: {
       category: "ANNOUNCEMENTS",
